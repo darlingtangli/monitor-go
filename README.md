@@ -1,5 +1,7 @@
 monitor-go
 ==============================  
 golang wrapper for c monitor api
-#install:  
+# install:  
+```
     $go get github.com/darlingtangli/monitor-go/monitor  
+```
