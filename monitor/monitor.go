@@ -1,7 +1,7 @@
 /**
 * @file monitor.go
 * @brief golang wrapper for c monitor api
-* @author litang
+* @author darlingtangli@gmail.com
 * @version 1.0
 * @date 2017-02-27
  */
